@@ -25,6 +25,7 @@ public class Account
 	}
 	public void setPassword(String x)
 	{
+// we add a comment
 		password=x;
 	}
 }
